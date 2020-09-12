@@ -28,5 +28,8 @@
 	},
 	"scripts": {
 		"test": "jest"
+	},
+	"dependencies": {
+		"faker": "^5.1.0"
 	}
 }
